@@ -24,6 +24,19 @@ A ideia é servir como **material de estudo**, **documentação interna** e **ba
 ✔ Times que desejam padronizar conhecimento técnico  
 
 ---
+## 📚 Conteúdo
+
+1. [Preparação do Ambiente](01-preparacao-ambiente/preparacao-ambiente.md)
+2. [JavaScript Básico Fundamental](02-javascript-basico/javascript-basico.md)
+3. [Funções em JavaScript](03-funcoes/funcoes.md)
+4. [POO – Classes em JavaScript](04-poo-classes/poo-classes.md)
+5. [JavaScript para Web – DOM](05-javascript-dom/javascript-dom.md)
+6. [JavaScript para Web – Boas Práticas](06-javascript-web-boas-praticas/boas-praticas.md)
+7. [Promises e Async/Await](07-promises-async-await/promises-async-await.md)
+8. [JSON e Fetch API](08-json-fetch-api/json-fetch-api.md)
+9. [Módulos em JavaScript](09-modulos-javascript/modulos-javascript.md)
+
+---
 
 ## 🛠️ Pré-requisitos
 
@@ -177,3 +190,37 @@ QA | Automação de Testes | Qualidade de Software
 ## ⭐ Se este repositório te ajudar...
 
 Deixe uma estrela ⭐ para apoiar o projeto!
+
+
+```txt
+javascript-para-qa/
+│
+├── README.md                      # Documentação inicial do projeto
+│
+├── 01-preparacao-ambiente/        # Setup inicial para trabalhar com JavaScript
+│   └── preparacao-ambiente.md
+│
+├── 02-javascript-basico/          # Fundamentos do JavaScript
+│   └── javascript-basico.md
+│
+├── 03-funcoes/                    # Funções em JavaScript
+│   └── funcoes.md
+│
+├── 04-poo-classes/                # Programação Orientada a Objetos com JS
+│   └── poo-classes.md
+│
+├── 05-javascript-dom/             # JavaScript aplicado à Web (DOM)
+│   └── javascript-dom.md
+│
+├── 06-javascript-web-boas-praticas/ # Boas práticas de JS para Web e QA
+│   └── boas-praticas.md
+│
+├── 07-promises-async-await/       # Código assíncrono
+│   └── promises-async-await.md
+│
+├── 08-json-fetch-api/             # JSON e consumo de APIs
+│   └── json-fetch-api.md
+│
+└── 09-modulos-javascript/         # Módulos, import e export
+    └── modulos-javascript.md
+
